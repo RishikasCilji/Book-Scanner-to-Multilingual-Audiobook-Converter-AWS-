@@ -31,16 +31,24 @@ The system automatically performs:
    
 ## Supported Input Formats
  -> PDF
+ 
  -> JPEG / PNG
+ 
  -> TXT
+ 
  -> RTF (basic support)
  
 ## Supported Languages
  -> English
+ 
  -> Hindi
+ 
  -> German
+ 
  -> Spanish
+ 
  -> French
+ 
  -> Tamil (partial)
  
 ## Folder Structure
