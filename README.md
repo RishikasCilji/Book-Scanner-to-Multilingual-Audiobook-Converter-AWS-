@@ -1,14 +1,13 @@
 # Book Scanner to Multilingual Audiobook Converter using AWS Tools
 
-Overview
+## Overview
 Serverless cloud-based system that converts scanned books, PDFs, and images into multilingual audiobooks using AWS services.
 
 The system automatically performs:
-
-## OCR text extraction
-Language translation
-Text-to-speech synthesis
-Audio storage and playback
+  * OCR text extraction
+  * Language translation
+  * Text-to-speech synthesis
+  * Audio storage and playback
 Technologies Used
 AWS S3
 AWS Lambda
