@@ -5,7 +5,7 @@ Serverless cloud-based system that converts scanned books, PDFs, and images into
 
 The system automatically performs:
 
-##OCR text extraction
+## OCR text extraction
 Language translation
 Text-to-speech synthesis
 Audio storage and playback
